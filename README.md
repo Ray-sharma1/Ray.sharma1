@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ray sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React JS, Node Js**
+-  I’m currently learning **React JS and Node Js**
 
-- 📫 How to reach me **musk182006@gmail.com**
+-  📧How to reach me **musk182006@gmail.com**
 
 - 📄 [UTTARPRADESH]
 -  • 2× NDA WRITTEN | 1× CONF OUT
