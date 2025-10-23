@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **musk182006@gmail.com**
 
-- 📄 Know about my experiences [UTTARPRADESH • 2× NDA WRITTEN | 1× CONF OUT • JEE MAINS 93% | DROP YEAR LEVEL UP]
+- 📄 [UTTARPRADESH]
+-  • 2× NDA WRITTEN | 1× CONF OUT
+-  • JEE MAINS 93% | DROP YEAR LEVEL UP]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
