@@ -5,7 +5,6 @@
 
 -  📧How to reach me **musk182006@gmail.com**
 
-- 📄 [UTTARPRADESH]
 -  • 2× NDA WRITTEN | 1× CONF OUT
 -  • JEE MAINS 93% | DROP YEAR LEVEL UP]
 
